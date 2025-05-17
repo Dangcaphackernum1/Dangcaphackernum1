@@ -1,4 +1,4 @@
-### 👋 Xin chào! Tôi là Hữu Tài
+### 👋 Xin chào! Tôi là Bùi Diễm
 - 💻 Tôi đang học về lập trình và phát triển ứng dụng trên nền tảng Microsoft
 - 📚 Tôi thích Power Apps, Office Scripts và Microsoft Graph
 - 🌱 Đang tìm hiểu .NET, TypeScript, Python
